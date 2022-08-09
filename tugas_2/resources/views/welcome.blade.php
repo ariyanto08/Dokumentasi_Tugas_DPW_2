@@ -1,1 +1,1 @@
-@extends('layout.dashboard')
+@extends('index')
